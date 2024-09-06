@@ -1,0 +1,5 @@
+.footer-left li, .footer-center li, .footer-right li{
+    list-style: none;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
