@@ -1,0 +1,12 @@
+.place-order-left input{
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #9c9898;
+    border-radius: 4px;
+    outline-color: tomato;
+}
+
+.place-order-left{
+    max-width: max(30%,500px);
+}
